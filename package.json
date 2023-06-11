@@ -17,11 +17,17 @@
   },
   "homepage": "https://github.com/rutermus/nospoon#readme",
   "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "css-loader": "^6.8.1",
     "eslint": "^8.42.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5",
     "html-webpack-plugin": "^5.5.3",
+    "postcss-loader": "^7.3.3",
     "prettier": "2.8.8",
+    "sass": "^1.63.3",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
     "webpack": "^5.86.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
